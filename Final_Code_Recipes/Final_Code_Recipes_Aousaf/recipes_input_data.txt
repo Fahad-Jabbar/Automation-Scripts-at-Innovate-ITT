@@ -1,0 +1,18 @@
+Chocolate:
+-----------------------------------------
+Sugar	= 2 spoons, 3 spoons, 5 spoons
+Milk	= 1% Fat, 5% Fat, 10% Fat
+Flour	= 5 gm, 10 gm
+-----------------------------------------
+Kheer:
+-----------------------------------------
+Sugar	= 10 spoons, 20 spoons, 30 spoons
+Milk	= 5% Fat, 10% Fat
+Rice	= 500 gm, 600 gm
+Water	= 300 ml, 400 ml 
+-----------------------------------------
+Halwa:
+-----------------------------------------
+Sugar	= 10 gm, 20 gm, 30 gm
+Milk	= 200 ml, 300 ml
+Carrot	= 500 gm, 600 gm, 800 gm
